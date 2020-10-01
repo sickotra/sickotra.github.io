@@ -6,7 +6,7 @@ I am a Data Analytics postgraduate student at the University of Sheffield. For m
 
 This is a website that I have created and it is still a work in progress. I aim to develop this website to:
 
-*Include my CV
-*Keep a track of any projects I undertake
-*Start a blog on Mathematicians (hopefully improving my writting skills)
+* Include my CV
+* Keep a track of any projects I undertake
+* Start a blog on Mathematicians (hopefully improving my writting skills)
 * Gain some GitHub skills
