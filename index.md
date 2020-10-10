@@ -1,7 +1,7 @@
 ---
 title: Shivani Sickotra
 ---
-<a href="maths.html" title="Maths Blog">Maths Blog</a>  <a href="cv.html" title="CV">CV</a>  <a href="projects.html" title="Projects">Projects</a>
+<a href="maths.html" title="*Maths Blog*">Maths Blog</a>    |    <a href="cv.html" title="*CV*">CV</a>    |    <a href="projects.html" title="*Projects*">Projects</a>
 
 Shivani Sickotra
 =================
