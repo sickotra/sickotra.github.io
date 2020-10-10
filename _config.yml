@@ -1,5 +1,4 @@
 theme: jekyll-theme-leap-day
-  plugins:
- 	- jekyll-seo-tag
-  author: Shivani Sickotra
+
+author: Shivani Sickotra
 
