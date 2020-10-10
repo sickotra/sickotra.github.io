@@ -1,12 +1,6 @@
 # Site navigation links
 - title: Home
-  url: /https://sickotra.github.io/
-
-- title: CV
-  url: /cv/
-
-- title: Projects
-  url: /proj/
+  url: /index/
   
 - title: Maths Blog
-  url: /https://sickotra.github.io/maths/
+  url: /maths/
