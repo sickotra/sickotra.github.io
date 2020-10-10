@@ -1,0 +1,12 @@
+# Site navigation links
+- title: Home
+  url: /https://sickotra.github.io/
+
+- title: CV
+  url: /cv/
+
+- title: Projects
+  url: /proj/
+  
+- title: Maths Blog
+  url: /https://sickotra.github.io/maths/
