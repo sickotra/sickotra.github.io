@@ -42,7 +42,7 @@ Hirschhorn, M. D., & Sellers, J. A. (2020, October). Congruences for overpartiti
 
 Kanigel, R. (1991). The Man Who Knew Infinity: A Life of the Genius Ramanujan. New York: Washington Square Press.
 
-Pillay, A., & Parker, r. A. (2020). Chapter 4: Partitions of numbers. Lecture notes distributed in MATH3143 Combinatorics, pp.18-22. University of Leeds.
+Pillay, A., & Parker, A. (2020). Chapter 4: Partitions of numbers. Lecture notes distributed in MATH3143 Combinatorics, pp.18-22. University of Leeds.
 
 Pressman, E. R., Young, J., Thomas, J. (Producers), & Brown, M. (Director). (2015). The Man Who Knew Infinity [Motion Picture].
 
