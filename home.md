@@ -19,3 +19,11 @@ I aim to develop this website to:
 * Keep a track of any projects I undertake
 * Start a blog on Mathematicians (hopefully improving my writting skills)
 * Gain some GitHub skills
+
+
+---
+title: Maths Blog
+---
+
+Mathematicians
+===============
