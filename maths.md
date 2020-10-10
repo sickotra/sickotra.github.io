@@ -1,0 +1,6 @@
+---
+title: Maths Blog
+---
+
+Mathematicians
+===============
