@@ -1,11 +1,18 @@
 ---
 title: Shivani Sickotra
 ---
-<a href="maths.html" title="*Maths Blog*">Maths Blog</a>    |    <a href="cv.html" title="*CV*">CV</a>    |    <a href="projects.html" title="*Projects*">Projects</a>
 
 <form action="https://sickotra.github.io/maths">
-    <input type="submit" value="Go to Google" />
+    <input type="submit" value="Maths Blog" />
 </form>
+<form action="https://sickotra.github.io/projects">
+    <input type="submit" value="Projects" />
+</form>
+<form action="https://sickotra.github.io/cv">
+    <input type="submit" value="CV" />
+</form>
+
+
 
 Shivani Sickotra
 =================
