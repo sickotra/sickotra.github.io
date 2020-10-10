@@ -1,2 +1,2 @@
-# sickotra.github.io
-Website
+# Shivani Sickotra
+A personal website.
