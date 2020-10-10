@@ -1,5 +1,5 @@
 ---
-title: Srinivasa Ramanujan 
+title: Ramanujan 
 ---
 
 # Srinivasa Ramanujan & Partitions
