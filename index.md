@@ -3,6 +3,10 @@ title: Shivani Sickotra
 ---
 <a href="maths.html" title="*Maths Blog*">Maths Blog</a>    |    <a href="cv.html" title="*CV*">CV</a>    |    <a href="projects.html" title="*Projects*">Projects</a>
 
+<form action="https://sickotra.github.io/maths">
+    <input type="submit" value="Go to Google" />
+</form>
+
 Shivani Sickotra
 =================
 
