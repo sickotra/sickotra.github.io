@@ -1,6 +1,7 @@
 ---
 title: Shivani Sickotra
 ---
+<a href="maths.html" title="Maths Blog">Maths Blog</a>
 
 Shivani Sickotra
 =================
