@@ -32,4 +32,23 @@ However, everything changed in 1913 which marked the beginning of Ramanujan’s 
 
 Ramanujan died in 1920 from ongoing health issues, aged only 32 (Ramanujan Aiyangar et al., 1995). In these brief years he was able to revolutionise fields of pure mathematics, which only years later would be recognised as widely as they should have when he was alive. He left behind his notebooks and publishing’s as well as unpublished work that has been studied and verified for years after his death. His discoveries led to mathematicians and scientists researching further and finding applications of partitions in fields such as cryptography, molecular chemistry and particle physics (Tran et al., 2004) - not just combinatorics. There was a Ramanujan journal created in in 1997 dedicated to the mathematics Ramanujan impacted, such as his work on partitions (Hirschhorn & Sellers, 2020).  His theorems are still used as a source to inspire new research in mathematics, and of course some of which are taught to students like myself!
 
+-------------------------------------------
+# References
+
+Aron, J. (2011). Deep meaning in Ramanujan's 'simple' pattern. NewScientist(2797).
+
+Hirschhorn, M. D., & Sellers, J. A. (2020, October). Congruences for overpartitions with restricted odd differences. The Ramanujan Journal, 1(53), pp.167-180.
+
+Kanigel, R. (1991). The Man Who Knew Infinity: A Life of the Genius Ramanujan. New York: Washington Square Press.
+
+Pillay, A., & Parker, r. A. (2020). Chapter 4: Partitions of numbers. Lecture notes distributed in MATH3143 Combinatorics, pp.18-22. University of Leeds.
+
+Pressman, E. R., Young, J., Thomas, J. (Producers), & Brown, M. (Director). (2015). The Man Who Knew Infinity [Motion Picture].
+
+Ramanujan Aiyangar, S., Berndt, B., & Rankin, R. (1995). Ramanujan : letters and commentary. American Mathematical Society.
+
+Tran, M., Murthy, M., & Bhaduri, R. (2004). On the quantum density of states and partitioning an integer. Annals of Physics, 311(1), pp.204-219.
+
+
+
 
