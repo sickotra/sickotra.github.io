@@ -5,5 +5,6 @@ title: Maths Blog
 Mathematicians
 ===============
 
-#[Ramanujan 10/10/20](https://sickotra.github.io/2020-10-10-ramanujan-partitions)
+#Ramanujan & Partitions
+[10th Oct 2020 - Ramanujan](https://sickotra.github.io/2020-10-10-ramanujan-partitions)
 
