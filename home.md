@@ -21,9 +21,4 @@ I aim to develop this website to:
 * Gain some GitHub skills
 
 
----
-title: Maths Blog
----
 
-Mathematicians
-===============
