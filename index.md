@@ -3,10 +3,11 @@ title: Shivani Sickotra
 ---
 
 <form action="https://sickotra.github.io/maths">
-    <input type="submit" style = "border: none;
-  color: #4780D5;
-  padding: 15px 20px;
-  border-style: ridge #FFD700;                               
+    <input type="submit" style = "
+  border: ridge #FFD700;
+  color: black;
+  background-color:#4780D5                                 
+  padding: 15px 20px;                               
   text-align: center;
   text-decoration: none;
   display: inline-block;
