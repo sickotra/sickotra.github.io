@@ -4,8 +4,9 @@ title: Shivani Sickotra
 
 <form action="https://sickotra.github.io/maths">
     <input type="submit" style = "border: none;
-  color: white;
-  padding: 15px 32px;
+  color: #4780D5;
+  padding: 15px 20px;
+  border-style: ridge #FFD700;                               
   text-align: center;
   text-decoration: none;
   display: inline-block;
