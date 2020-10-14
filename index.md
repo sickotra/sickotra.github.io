@@ -3,7 +3,15 @@ title: Shivani Sickotra
 ---
 
 <form action="https://sickotra.github.io/maths">
-    <input type="submit" value="Maths Blog" />
+    <input type="submit" style = "border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;" value="Maths Blog" />
 </form>
 <form action="https://sickotra.github.io/projects">
     <input type="submit" value="Projects" />
