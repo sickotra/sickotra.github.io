@@ -1,7 +1,7 @@
 ---
 title: Shivani Sickotra
 ---
-
+<div id="outer">
 <form action="https://sickotra.github.io/maths">
     <input type="submit" style = "
   border: ridge #4780D5; /* Blue */
@@ -43,7 +43,7 @@ title: Shivani Sickotra
   margin: 4px 2px;
   cursor: pointer;" value="CV" />
 </form>
-
+</div>
 -----------------------------------------------------------------
 
 # Personal Profile 
