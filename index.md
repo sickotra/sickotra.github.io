@@ -4,10 +4,10 @@ title: Shivani Sickotra
 
 <form action="https://sickotra.github.io/maths">
     <input type="submit" style = "
-  border: ridge #FFD700;
+  border: ridge #FFD700; /* Yellow */
   color: black;
-  background-color:#4780D5                                 
-  padding: 15px 20px;                               
+  background-color:#4780D5; /* Blue */                                
+  padding: 15px 32px;                               
   text-align: center;
   text-decoration: none;
   display: inline-block;
@@ -15,11 +15,33 @@ title: Shivani Sickotra
   margin: 4px 2px;
   cursor: pointer;" value="Maths Blog" />
 </form>
+
 <form action="https://sickotra.github.io/projects">
-    <input type="submit" value="Projects" />
+    <input type="submit" style = "
+  border: ridge #FFD700; /* Yellow */
+  color: black;
+  background-color:#4780D5; /* Blue */                                
+  padding: 15px 32px;                               
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;" value="Projects" />
 </form>
+
 <form action="https://sickotra.github.io/cv">
-    <input type="submit" value="CV" />
+    <input type="submit" style = "
+  border: ridge #FFD700; /* Yellow */
+  color: black;
+  background-color:#4780D5; /* Blue */                                
+  padding: 15px 32px;                               
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;" value="CV" />
 </form>
 
 -----------------------------------------------------------------
