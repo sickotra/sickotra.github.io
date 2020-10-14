@@ -4,10 +4,10 @@ title: Shivani Sickotra
 
 <form action="https://sickotra.github.io/maths">
     <input type="submit" style = "
-  border: ridge #FFD700; /* Yellow */
+  border: ridge #4780D5; /* Blue */
   color: black;
-  background-color:#4780D5; /* Blue */                                
-  padding: 15px 32px;                               
+  background-color: #FFD700; /* Yellow */                                
+  padding: 15px 25px;                               
   text-align: center;
   text-decoration: none;
   display: inline-block;
@@ -18,10 +18,10 @@ title: Shivani Sickotra
 
 <form action="https://sickotra.github.io/projects">
     <input type="submit" style = "
-  border: ridge #FFD700; /* Yellow */
+  border: ridge #4780D5; /* Blue */
   color: black;
-  background-color:#4780D5; /* Blue */                                
-  padding: 15px 32px;                               
+  background-color: #FFD700; /* Yellow */                                
+  padding: 15px 25px;                               
   text-align: center;
   text-decoration: none;
   display: inline-block;
@@ -32,10 +32,10 @@ title: Shivani Sickotra
 
 <form action="https://sickotra.github.io/cv">
     <input type="submit" style = "
-  border: ridge #FFD700; /* Yellow */
+  border: ridge #4780D5; /* Blue */
   color: black;
-  background-color:#4780D5; /* Blue */                                
-  padding: 15px 32px;                               
+  background-color: #FFD700; /* Yellow */                                
+  padding: 15px 25px;                               
   text-align: center;
   text-decoration: none;
   display: inline-block;
