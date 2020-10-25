@@ -1,6 +1,13 @@
 ---
 title: Shivani Sickotra
 ---
+<style>
+    form{
+        float:left;
+        display: inline-block;
+    }
+</style>
+
 <form action="https://sickotra.github.io/maths">
     <input type="submit" style = "
   border: ridge #4780D5; /* Blue */
@@ -11,6 +18,7 @@ title: Shivani Sickotra
   text-decoration: none;
   display: inline;
   font-size: 16px;
+  margin: 4px 2px;
   cursor: pointer;" value="Maths Blog" />
 </form>
 
@@ -24,7 +32,7 @@ title: Shivani Sickotra
   text-decoration: none;
   display: inline;
   font-size: 16px;
-  margin-left: 20px
+  margin: 4px 2px;
   cursor: pointer;" value="Projects" />
 </form>
 
@@ -38,7 +46,7 @@ title: Shivani Sickotra
   text-decoration: none;
   display: inline;
   font-size: 16px;
-  margin-left: 40px
+  margin: 4px 2px;
   cursor: pointer;" value="CV" />
 </form>
 
