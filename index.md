@@ -10,7 +10,7 @@ title: Shivani Sickotra
   text-align: center;
   text-decoration: none;
   display: inline;
-  width: calc(50% - 4px);
+  width: calc(25% - 4px);
   font-size: 16px;
   margin: 4px 2px;
   cursor: pointer;" value="Maths Blog" />
@@ -25,7 +25,7 @@ title: Shivani Sickotra
   text-align: center;
   text-decoration: none;
   display: inline;
-  width: calc(50% - 4px);
+  width:calc(25% - 4px);
   font-size: 16px;
   margin: 4px 2px;
   cursor: pointer;" value="Projects" />
@@ -40,7 +40,7 @@ title: Shivani Sickotra
   text-align: center;
   text-decoration: none;
   display: inline;
-  width: calc(50% - 4px);
+  width: calc(25% - 4px);
   font-size: 16px;
   margin: 4px 2px;
   cursor: pointer;" value="CV" />
