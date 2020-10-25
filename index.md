@@ -23,7 +23,7 @@ title: Shivani Sickotra
   cursor: pointer;" value="Home" />
 </form>
 
-<form action="https://sickotra.github.io/projects">
+<form action="https://sickotra.github.io/Projects/projects">
     <input type="submit" style = "
   border: ridge #4780D5; /* Blue */
   color: black;
