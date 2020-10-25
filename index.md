@@ -12,7 +12,7 @@ title: Shivani Sickotra
   display: inline-block;
   width: calc(50% - 4px);
   font-size: 16px;
-  margin: 0 auto;
+  margin-right: 20px;
   cursor: pointer;" value="Maths Blog" />
 </form>
 
@@ -27,7 +27,7 @@ title: Shivani Sickotra
   display: inline-block;
   width: calc(50% - 4px);
   font-size: 16px;
-  margin: 0 auto;
+  margin-right: 20px;
   cursor: pointer;" value="Projects" />
 </form>
 
@@ -42,7 +42,7 @@ title: Shivani Sickotra
   display: inline-block;
   width: calc(50% - 4px);
   font-size: 16px;
-  margin: 0 auto;
+  margin-right: 20px;
   cursor: pointer;" value="CV" />
 </form>
 
