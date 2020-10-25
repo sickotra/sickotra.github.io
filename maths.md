@@ -1,6 +1,3 @@
----
-title: Maths Blog
----
 <style>
     form{
         float:left;
