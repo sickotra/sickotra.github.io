@@ -74,7 +74,7 @@
 
 # Projects
 
-### Programming for Social Science Sept-Oct 2020
+### Programming for Social Science Sept 2020
 In this project a simple agent-based model is created and the interactions of agents, with each other and the environment they live in, are simulated. These agents have various behaviours such as move, eat and sharing resources.
 <figure>
 <img src="after_move.png" alt="Agents after simulation is run">
