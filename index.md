@@ -8,7 +8,6 @@ title: Shivani Sickotra
     }
 </style>
 
-<br>
 <form action="https://sickotra.github.io/maths">
     <input type="submit" style = "
   border: ridge #4780D5; /* Blue */
@@ -54,7 +53,7 @@ title: Shivani Sickotra
 
 <br>
 
------------------------------------------------------------------
+<br>-----------------------------------------------------------------
 # Personal Profile 
 I am a Data Analytics postgraduate student at the University of Sheffield. For my undergraduate degree I studied Mathematics at the Univeristy of Leeds.
 
