@@ -20,7 +20,7 @@
   cursor: pointer;" value="Home" />
 </form>
 
-<form action="https://sickotra.github.io/projects">
+<form action="https://sickotra.github.io/Projects/projects">
     <input type="submit" style = "
   border: ridge #4780D5; /* Blue */
   color: black;
@@ -76,11 +76,17 @@
 
 ### Programming for Social Science Sept-Oct 2020
 In this project a simple agent-based model is created and the interactions of agents, with each other and the environment they live in, are simulated. These agents have various behaviours such as move, eat and sharing resources.
-See the ABM Github repository link for more information and the code used to build the program.
-[ABM Repository](sickotra/Programming_Practicals)
+<br> See the ABM Github repository link for more information and the code used to build the program.
+>br? [ABM Repository](sickotra/Programming_Practicals)
+
+<br?
+<figure>
+<img src="after_move.png" alt="Agents after simulation is run">
+<figcaption>Fig.1 - End locations of 200 agents in the environment after 500 iterations </figcaption>
+</figure>
 
 ### Bacterial Bomb Oct 2020
 A deadly biological weapon has been detonated in the middle of the town on top of a building. As a member of a secret government anti-terrorist untit, this program has been built to model the spread of the contagious bacterial particles. This will allow the bacteria to be traced so that the contamination can be dealt with. 
-See the Bactrial Bomb Github repository for more information and the code used to build the program.
-[Bacterial Spread Repository](Bacterial_Bomb)
+<br> See the Bactrial Bomb Github repository for more information and the code used to build the program.
+<br> [Bacterial Spread Repository](Bacterial_Bomb)
 
