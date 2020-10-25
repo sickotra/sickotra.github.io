@@ -48,38 +48,20 @@ title: Shivani Sickotra
 
 
 
-<div class="btn-group" style=width: 100%>
-  <button style=width:33.3%>Projects</button>
-  <button style=width:33.3%>Maths Blog</button>
-  <button style=width:33.3%>CV</button>
+<div class="btn-group">
+  <button>Projects</button>
+  <button>Maths Blog</button>
+  <button>CV</button>
 </div>
 
-.btn-group button {
-  background-color: #4CAF50; #FFD700; /* Yellow */ 
-  border: ridge #4780D5; /* Blue */
-  color:  black; /* black text*/
-  padding: 10px 24px; /* Some padding */
-  cursor: pointer; /* Pointer/hand icon */
-  float: left; /* Float the buttons side by side */
-  value="Projects"
-}
 
-.btn-group button:not(:last-child) {
-  border-right: none; /* Prevent double borders */
-}
 
-/* Clear floats (clearfix hack) */
-.btn-group:after {
-  content: "";
-  clear: both;
-  display: table;
-}
-
-/* Add a background color on hover */
-.btn-group button:hover {
-  background-color: #3e8e41;
-}
-
+<!-- Three buttons in a group -->
+<div class="btn-group" style="width:100%">
+  <button style="width:33.3%">Apple</button>
+  <button style="width:33.3%">Samsung</button>
+  <button style="width:33.3%">Sony</button>
+</div>
 
 -----------------------------------------------------------------
 
