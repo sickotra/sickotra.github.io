@@ -11,7 +11,6 @@ title: Shivani Sickotra
   text-decoration: none;
   display: inline;
   font-size: 16px;
-  margin: 4px 2px;
   cursor: pointer;" value="Maths Blog" />
 </form>
 
@@ -25,7 +24,6 @@ title: Shivani Sickotra
   text-decoration: none;
   display: inline;
   font-size: 16px;
-  margin: 4px 2px;
   margin-left: 20px
   cursor: pointer;" value="Projects" />
 </form>
@@ -40,7 +38,6 @@ title: Shivani Sickotra
   text-decoration: none;
   display: inline;
   font-size: 16px;
-  margin: 4px 2px;
   margin-left: 40px
   cursor: pointer;" value="CV" />
 </form>
