@@ -1,6 +1,3 @@
----
-title: CV
----
 <style>
     form{
         float:left;
