@@ -57,10 +57,20 @@ title: Shivani Sickotra
 
 
 <!-- Three buttons in a group -->
-<div class="btn-group" style="width:100%">
-  <button style="width:33.3%">Apple</button>
-  <button style="width:33.3%">Samsung</button>
-  <button style="width:33.3%">Sony</button>
+<div class="btn-group" style="width:60%">
+  
+  <form action="https://sickotra.github.io/projects">
+     <button style="width:20%">Projects</button>
+  </form>
+  
+  <form action="https://sickotra.github.io/maths">
+     <button style="width:20%">Maths Blog</button>
+  </form>
+  
+  <form action="https://sickotra.github.io/cv">
+     <button style="width:20%">Sony</button>
+  </form>
+  
 </div>
 
 -----------------------------------------------------------------
