@@ -6,7 +6,7 @@ title: Shivani Sickotra
   border: ridge #4780D5; /* Blue */
   color: black;
   background-color: #FFD700; /* Yellow */                                
-  padding: 15px 25px;                               
+  padding: 10px 15px;                               
   text-align: center;
   text-decoration: none;
   display: inline;
@@ -21,7 +21,7 @@ title: Shivani Sickotra
   border: ridge #4780D5; /* Blue */
   color: black;
   background-color: #FFD700; /* Yellow */                                
-  padding: 15px 25px;                               
+  padding: 10px 15px;                               
   text-align: center;
   text-decoration: none;
   display: inline;
@@ -36,7 +36,7 @@ title: Shivani Sickotra
   border: ridge #4780D5; /* Blue */
   color: black;
   background-color: #FFD700; /* Yellow */                                
-  padding: 15px 25px;                               
+  padding: 10px 15px;                               
   text-align: center;
   text-decoration: none;
   display: inline;
