@@ -1,3 +1,6 @@
+---
+title: Projects
+---
 <style>
     form{
         float:left;
@@ -71,7 +74,6 @@
 <br>
    
 ----------------------------------------------
-
 
 # Projects
 
