@@ -45,31 +45,6 @@ title: Shivani Sickotra
 
 
 
-<div class="btn-group">
-  <button>Projects</button>
-  <button>Maths Blog</button>
-  <button>CV</button>
-</div>
-
-
-
-<!-- Three buttons in a group -->
-<div class="btn-group" style="width:60%">
-  
-  <form action="https://sickotra.github.io/projects">
-     <button style="width:20%">Projects</button>
-  </form>
-  
-  <form action="https://sickotra.github.io/maths">
-     <button style="width:20%">Maths Blog</button>
-  </form>
-  
-  <form action="https://sickotra.github.io/cv">
-     <button style="width:20%">Sony</button>
-  </form>
-  
-</div>
-
 -----------------------------------------------------------------
 
 # Personal Profile 
