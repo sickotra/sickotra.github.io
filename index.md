@@ -9,7 +9,7 @@ title: Shivani Sickotra
   padding: 15px 25px;                               
   text-align: center;
   text-decoration: none;
-  display: inline-block;
+  display: inline;
   width: calc(50% - 4px);
   font-size: 16px;
   margin: 4px 2px;
@@ -24,7 +24,7 @@ title: Shivani Sickotra
   padding: 15px 25px;                               
   text-align: center;
   text-decoration: none;
-  display: inline-block;
+  display: inline;
   width: calc(50% - 4px);
   font-size: 16px;
   margin: 4px 2px;
@@ -39,7 +39,7 @@ title: Shivani Sickotra
   padding: 15px 25px;                               
   text-align: center;
   text-decoration: none;
-  display: inline-block;
+  display: inline;
   width: calc(50% - 4px);
   font-size: 16px;
   margin: 4px 2px;
