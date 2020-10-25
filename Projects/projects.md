@@ -76,13 +76,15 @@
 
 ### Programming for Social Science Sept-Oct 2020
 In this project a simple agent-based model is created and the interactions of agents, with each other and the environment they live in, are simulated. These agents have various behaviours such as move, eat and sharing resources.
-<br> <i> See the [ABM Github Repository](sickotra/Programming_Practicals) for more information and the code used to build the program. </i>
 
 <br>
 <figure>
 <img src="after_move.png" alt="Agents after simulation is run">
 </figure>
 
+<br> <i> See the [ABM Github Repository](sickotra/Programming_Practicals) for more information and the code used to build the program. </i>
+           
+                  
 ### Bacterial Bomb Oct 2020
 A deadly biological weapon has been detonated in the middle of the town on top of a building. As a member of a secret government anti-terrorist untit, this program has been built to model the spread of the contagious bacterial particles. This will allow the bacteria to be traced so that the contamination can be dealt with. 
 <br> <i> See the [Bacterial Bomb Github Repository](Bacterial_Bomb) for more information and the code used to build the program. </i>
