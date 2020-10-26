@@ -50,7 +50,7 @@ title: Shivani Sickotra
   font-size: 16px;
   margin: 4px 2px;
   width: 100px;
-  cursor: pointer;" value="Maths Blog" />
+  cursor: pointer;" value="Blog" />
 </form>
 
 <form action="https://sickotra.github.io/cv">
