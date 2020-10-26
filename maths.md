@@ -45,7 +45,7 @@
   text-decoration: none;
   display: inline;
   font-size: 16px;
-  margin: 4px 2px;
+  margin: 4px 2px
   width: 100px;
   cursor: pointer;" value="Maths Blog" />
 </form>
