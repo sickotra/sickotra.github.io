@@ -1,4 +1,9 @@
-
+<style scoped>
+    form{
+        float:left;
+        display: inline-block;
+    }
+</style>
 
 <form action="https://sickotra.github.io/">
     <input type="submit" style = "
@@ -59,12 +64,7 @@
   width: 100px;
   cursor: pointer;" value="CV" />
 </form>
-<style>
-    form{
-        float:left;
-        display: inline-block;
-    }
-</style>
+
 
 <br>
 
