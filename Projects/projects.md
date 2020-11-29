@@ -1,4 +1,4 @@
-<style scoped>
+<style>
     form{
         float:left;
         display: inline-block;
