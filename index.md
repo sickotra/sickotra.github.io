@@ -1,7 +1,7 @@
 ---
 title: Shivani Sickotra
 ---
-<style>    <! so the buttons appear on one line >
+<style>    
     form{
         float:left;
         display: inline-block;
