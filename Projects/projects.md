@@ -72,7 +72,7 @@
    
 ----------------------------------------------
 
-# Projects
+## Projects
 
 ### Agent-Based Model - Sept 2020
 In this project a simple agent-based model(ABM) is created and the interactions of agents, with each other and the environment they live in, are simulated. These agents have various behaviours such as move, eat and sharing resources.
