@@ -1,12 +1,7 @@
 ---
 title: Shivani Sickotra
 ---
-<style>
-    form{
-        float:left;
-        display: inline-block;
-    }
-</style>
+
 
 <form action="https://sickotra.github.io/">
     <input type="submit" style = "
