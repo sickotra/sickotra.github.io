@@ -77,7 +77,7 @@
 ### Agent-Based Model - Sept 2020
 In this project a simple agent-based model(ABM) is created and the interactions of agents, with each other and the environment they live in, are simulated. These agents have various behaviours such as move, eat and sharing resources.
 <figure>
-<img src="after_move.png">
+<img src="after_move.png" alt="Agents after simulation is run">
 </figure>
 
 <br> <i> See the [ABM Github Repository](https://github.com/sickotra/Programming_Practicals.git) for more information and the code used to build the program. </i>
