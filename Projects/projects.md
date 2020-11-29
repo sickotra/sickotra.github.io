@@ -86,14 +86,14 @@ In this project a simple agent-based model(ABM) is created and the interactions 
                     
 ### Bacterial Bomb - Oct 2020
 <figure>
-<img src="logo.gif" alt="Agents after simulation is run">
+<img src="logo.gif" alt="logo">
 </figure>
 A deadly biological weapon has been detonated in the middle of the town on top of a building. As a member of a secret government anti-terrorist unit, this program has been built to model the spread of the contagious bacterial particles. This will allow the bacteria released to be traced so that the contamination can be dealt with. 
 <figure>
-<img src="town_after_spread.png" alt="Agents after simulation is run">
+<img src="town_after_spread.png" alt="Particle spread">
 </figure>   
 <figure>
-<img src="density_map.png" alt="Agents after simulation is run">
+<img src="density_map.png" alt="Density map">
 </figure>   
 <br> <i> See the [Bacterial Bomb Github Repository](https://github.com/sickotra/Bacterial_Bomb.git) for more information and the code used to build the program. </i>
 
