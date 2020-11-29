@@ -1,11 +1,11 @@
-<div>
+<head>
     <style>
         form{
             float:left;
             display: inline-block;
         }
     </style>
-</div>
+</head>
 
 <form action="https://sickotra.github.io/">
     <input type="submit" style = "
