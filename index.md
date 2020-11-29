@@ -74,12 +74,12 @@ title: Shivani Sickotra
 <br>
                  
 -----------------------------------------------------------------
-# Personal Profile 
+## Personal Profile 
 I am a Data Analytics postgraduate student at the University of Sheffield. For my undergraduate degree I studied Mathematics at the Univeristy of Leeds.
 
 -----------------------------------------------------------------
 
-# My Goals 
+## My Goals 
 This is a website that I have created and it is still a work in progress.
 I aim to develop this website to:
 
