@@ -20,7 +20,7 @@
   cursor: pointer;" value="Home" />
 </form>
 
-<form action="https://sickotra.github.io/Projects/projects">
+<form action="https://sickotra.github.io/Projects/python">
     <input type="submit" style = "
   border: ridge #4780D5; /* Blue */
   color: black;
@@ -32,7 +32,7 @@
   font-size: 16px;
   margin: 4px 2px;
   width: 100px;
-  cursor: pointer;" value="Projects" />
+  cursor: pointer;" value="Python" />
 </form>
 
 <form action="https://sickotra.github.io/maths">
@@ -62,7 +62,7 @@
   font-size: 16px;
   margin: 4px 2px;
   width: 100px;
-  cursor: pointer;" value="CV" />
+  cursor: pointer;" value="Diamonds" />
 </form>
 
 
