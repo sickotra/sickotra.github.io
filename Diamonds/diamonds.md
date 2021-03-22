@@ -75,7 +75,7 @@
 --------------------------------------------------------
 ## Diamonds Data Analysis
 
-The dataset selected for analysis was the 'Diamonds' dataset found on Kaggle (2017) consisting of 53,940 round cut diamond observations. This dataset was thought to be particularly rich for performing data analysis and machine learning due to the complexity of the variables in relation to the diamond price (GIA, 2021).
+The dataset selected for analysis was the 'Diamonds' dataset found on [Kaggle](https://www.kaggle.com/shivam2503/diamonds) consisting of 53,940 round cut diamond observations. This dataset was thought to be particularly rich for performing data analysis and machine learning due to the complexity of the variables in relation to the diamond price.
 
 After cleaning the data, the final dataset consisted of 53,772 observations with 10 features: 
 * `carat` (0.2 - 5.01 ct.)
