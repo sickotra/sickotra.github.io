@@ -87,6 +87,6 @@ I aim to develop this website to:
 
 * Display projects undertaken
 * Start a blog 
-* Explore the possibilies of GitHub & GitPages
+* Explore the possibilies of GitHub & GitPages using Markdown, HTML & CSS 
 
 
