@@ -92,7 +92,17 @@ After cleaning the data, the final dataset consisted of 53,772 observations with
 ----------------------------------------
 Exploatory data analysis revealed patterns and trends in the dataset.
 
-(add images)
+<figure>
+<img src="figure1_eda.png" alt="EDA">
+</figure> 
+
+<figure>
+<img src="figure2_carat_price.png" alt="Carat vs. Price">
+</figure> 
+
+<figure>
+<img src="figure3_desired_features.png" alt="Desired Diamond Features">
+</figure> 
 
 Figure 3 can assist in deciding the characteristics of a ‘perfect’ diamond. To choose a diamond to optimise beauty, it should be between 1 – 2ct. Diamonds outside of this range may be too small or large that either cut, clarity or colour are poor. Therefore, for the ‘perfect’ diamond, the cut type should ‘Ideal’-‘Very Good’, the diamond colour can be compromised down to grade G and the clarity compromised down to ‘VS2’. In this dataset there are 4438 diamonds that meet these criteria. The diamond with `ID 10006` achieves these conditions with 1.01 carat, ‘Premium’ cut, colour ‘E’ and clarity ‘VS2’ for the lowest price of $4706. This should be the diamond a buyer should consider purchasing since it encapsulates all desired characteristics to optimise beauty for the cheapest price.
 
