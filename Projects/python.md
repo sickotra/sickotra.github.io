@@ -50,7 +50,7 @@
   cursor: pointer;" value="Blog" />
 </form>
 
-<form action="https://sickotra.github.io/cv">
+<form action="https://sickotra.github.io/Diamonds/diamonds">
     <input type="submit" style = "
   border: ridge #4780D5; /* Blue */
   color: black;
